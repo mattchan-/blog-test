@@ -1,12 +1,6 @@
 ---
 title: About 2
 date: 2019-12-25 10:11:00 Z
----
-
----
-title: About Me
-layout: page
-description: This is what I do.
 background: "/img/bg-about.jpg"
 ---
 
