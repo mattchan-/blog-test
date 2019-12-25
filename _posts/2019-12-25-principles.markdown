@@ -1,6 +1,7 @@
 ---
 title: Principles
 date: 2019-12-25 09:57:00 Z
+background: "/img/bg-about.jpg"
 ---
 
 What are the highest value cognitive investing activities we can engage in? How can these be reduced further?
