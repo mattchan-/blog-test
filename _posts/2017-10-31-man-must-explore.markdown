@@ -1,9 +1,9 @@
 ---
 title: Man must explore, and this is exploration at its greatest
-date: 2017-10-31 14:45:13 Z
-layout: post
+date: 2017-10-31 14:45:00 Z
 subtitle: Problems look mighty small from 150 miles up
 background: "/img/posts/06.jpg"
+layout: post
 ---
 
 <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
@@ -28,7 +28,7 @@ background: "/img/posts/06.jpg"
 
 <h2 class="section-heading">Reaching for the Stars</h2>
 
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
+<p>As we got further and further away, it \[the Earth\] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
 
 <img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
@@ -38,3 +38,5 @@ background: "/img/posts/06.jpg"
 <p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
 
 <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>
+
+![Desktop18.jpg](/uploads/Desktop18.jpg)
