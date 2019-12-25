@@ -2,9 +2,6 @@
 title: Second Mind
 timezone: UTC
 collections:
-  _posts:
-    title: Posts
-    output: false
   posts:
     title: Posts
     output: true
